@@ -1,0 +1,21 @@
+/* Pon tu código css aqui */
+.amarillo {
+	width: 160px;
+	height: 120px;
+	background-color: yellow;
+}
+.azul {
+	width: 160px;
+	height: 120px;
+	background-color: blue;
+}
+.rojo {
+	width: 160px;
+	height: 120px;
+	background-color: red;
+}
+.caja {
+	width: 700px;
+	border: 1px solid #737070;
+	margin: 5px;
+}
